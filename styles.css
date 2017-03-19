@@ -1,0 +1,204 @@
+@media only screen and (min-widht: 760px) {
+	.
+}
+
+body { 
+    background: #056571
+}
+
+h1 {
+        font-family: 'Comfortaa', serif;
+        font-size: 48px;
+        color: #FFFFFF;
+        letter-spacing: 1px;
+       	padding-top: 0px;
+    	padding-right: 0px;
+    	padding-bottom: 0px;
+    	padding-left: 0px;'
+    	margin-top: 0px;
+    	margin-right: 0px;
+    	margin-bottom: 0px;
+    	margin-left: 0px;
+    	font-weight: lighter;
+
+      }
+
+h2 {
+        font-family: 'Comfortaa', serif;
+        font-size: 20px;
+        color: #FFFFFF;
+        letter-spacing: 3px;
+        padding-top: 0px;
+    	padding-right: 0px;
+    	padding-bottom: 0px;
+    	padding-left: 0px;
+    	margin-top: 0px;
+    	margin-right: 0px;
+    	margin-bottom: 0px;
+    	margin-left: 0px;
+    	font-weight: normal;
+      }
+
+      h3 {
+        font-family: 'Comfortaa', serif;
+        font-size: 20px;
+        color: #FFFFFF;
+        letter-spacing: 3px;
+        padding-top: 0px;
+    	padding-right: 0px;
+    	padding-bottom: 0px;
+    	padding-left: 0px;
+    	margin-top: 0px;
+    	margin-right: 0px;
+    	margin-bottom: 0px;
+    	margin-left: 0px;
+    	font-weight: normal;
+      }
+
+p {
+        font-family: 'Comfortaa', sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+        letter-spacing: 1px;
+        margin-top: 0px;
+    	margin-right: 0px;
+    	margin-bottom: 0px;
+    	margin-left: 0px;
+    	text-align: center
+      }
+
+a {
+    color: white;
+    font-family: "Georgia";
+    font-size: 40px;
+    text-align: center;
+}
+
+a:hover {
+    color: #CCDFCB;
+}
+
+a:visited {
+	color: #FF00FF;
+}
+
+.top-container {
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+.middle-container {
+    margin-top: 20px;
+    text-align: center;
+    background: none;
+
+}
+
+.p-container {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: none;
+
+}
+
+.link-container {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+.link-align {
+    text-align: center;
+}
+
+.work-container {
+	width: 200px;
+	height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #CCDFCB;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    display: inline-block;
+}
+
+  .portrait {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border: 10px double;
+    border-color: #FFFFFF;
+}
+
+  .work {
+    width: 200px;
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+  .footer {
+    background: #414141;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    line-height: 130%
+}
+
+.left-carousel-control {
+	background: none;
+	position: relative;
+	vertical-align: middle;
+	padding-right: 0px;
+	padding-left: 0px;
+	font-color: #FFFFFF;
+}
+
+.right-carousel-control {
+	background: none;
+	position: relative;
+	padding-right: 0px;
+	padding-left: 0px;
+	font-color: #FFFFFF;
+}
+
+.carousel-caption {
+	font-family: Comfortaa;
+	text-shadow: none;
+	bottom: 3px;
+	padding-top: 50px;
+    padding-bottom: 3px;
+}
+
+.align-right {
+	float: right;
+	vertical-align: middle;
+}
+
+.vertical-align {
+	display: table-cell;
+    vertical-align: middle;
+}
