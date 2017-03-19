@@ -79,8 +79,16 @@ a:hover {
 }
 
 a:visited {
-	color: #FF00FF;
+	color: #FFFFFF;
 }
+
+.visited-link a:link,a:visited {
+  color:white;
+  }
+
+  .hover-link a:hover {
+  color:#CCDFCB;
+  }
 
 .top-container {
     padding-top: 20px;
